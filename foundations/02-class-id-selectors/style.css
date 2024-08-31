@@ -1,0 +1,19 @@
+.class1 {
+    background-color: rgb(235, 156, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class2 {
+    font-size: 24px;
+}
+
+#blue36 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#green24 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
